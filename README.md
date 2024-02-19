@@ -1,5 +1,5 @@
 <div style="display:flex;flex-direction:column"><div paddings="20px"></div>
-<img paddings="50px" align="center" alt="Coding" src="https://github.com/manikandanmk7305/manikandanmk7305/assets/128012731/2d07d992-b458-40e1-babf-3f4d1f116ff3"><br>
+<img align="center" alt="Coding" width="500px" src="https://github.com/manikandanmk7305/manikandanmk7305/assets/128012731/2d07d992-b458-40e1-babf-3f4d1f116ff3"><br>
 </div>
   <h1 align="center">Hi 👋, I'm Manikandan L</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
