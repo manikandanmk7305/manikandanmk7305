@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" height = "480px" width="1600px" src="https://github.com/manikandanmk7305/manikandanmk7305/assets/128012731/2d07d992-b458-40e1-babf-3f4d1f116ff3"><br>
   <h1 align="center">Hi 👋, I'm Manikandan L</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandanmk7305&label=Profile%20views&color=0e75b6&style=flat" alt="manikandanmk7305" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikandanmk7305" alt="manikandanmk7305" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java and JavaScript**
 
-- 💬 Ask me about **C, C++, Java, Python, HTML, CSS**
+- 💬 Ask me about **C, C++, Java, Python, HTML, CSS, React JS**
 
 - 📫 How to reach me **manikandanmk7305@gmail.com**
 
